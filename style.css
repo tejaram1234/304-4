@@ -1,0 +1,50 @@
+body{
+    margin: 100px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.main{
+    /* border: 2px solid red; */
+    width: 65%;
+    height: 25px;
+    background-color: #1b103b;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    padding-left: 40px;
+}
+li{
+    text-decoration: none;
+    display:inline;
+    float: left;
+    overflow: hidden;
+    font-family: sans-serif;
+}
+.teja{
+    text-decoration: none;
+    color: #95929d;
+    display: block;
+    padding: 22px;
+}
+.ram{
+    text-decoration: none;
+    color:white;
+    display: block;
+    padding: 8px;
+}
+a:active{
+    color: white;
+}
+a:hover{
+    color: white;
+}
+.name{
+    /* border: 2px solid yellow; */
+    color: #95929d;
+   
+}
+.myvoot{
+    color: white;
+}
